@@ -1,0 +1,43 @@
+.login{
+    display: grid;
+    place-items:center;
+    height:100vh;
+    background:#191414;
+   
+}
+
+.login>img {
+    max-width: 80%;
+    max-height: 80%;
+   }
+   
+
+.login>h1{
+    padding:20px;
+    font-weight:1400;
+    font-size: 60px;
+    color:#1db954;
+}
+.login>h2{
+    padding:20px;
+    font-weight: 600;
+    color:white;
+}
+
+.login>a {
+    box-shadow: inset 10 10 10 10 #191414;
+    color:  #191414;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    padding: 20px;
+    border-radius:99px;
+    background-color: #1db954;
+    font-weight: 800;
+    color:white;
+    text-decoration:none;
+  }
+  a:hover {
+    box-shadow: inset 220px 0 0 0 #11692e;
+    color: #191414;
+  }
