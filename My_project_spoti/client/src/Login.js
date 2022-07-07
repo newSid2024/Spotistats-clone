@@ -10,7 +10,7 @@ function Login() {
         <img src='https://play-lh.googleusercontent.com/OO06tTnQyEckM3dUDbHqmWXpI-7IbYlodDxVR7L4buzOX6KQvAeTJEV_Q45cznM63mJ-'/>
         
         <h1>Welcome to Spotistats</h1>
-        <h2>Spotistats is a tool designed to analyse and backup your music on Spotify!( will edit it more )</h2>
+        <h2>Spotistats is a tool designed to analyse and backup your music on Spotify!</h2>
         <a href={AUTH_URL}>LOGIN WITH SPOTIFY</a>
        
     </div>
